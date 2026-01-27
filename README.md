@@ -42,7 +42,7 @@ The dashboard enables intuitive, product-style exploration through image-based s
 ---
 
 ## 🎥 Demo
-▶️ [Watch the dashboard demo video](nike_powerbi_demo.mp4)
+▶️ [Watch the dashboard demo video](nike_powerbi_demo.mp4.mp4)
 
 
 ---
