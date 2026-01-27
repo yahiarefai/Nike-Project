@@ -31,7 +31,11 @@ The dashboard enables intuitive, product-style exploration through image-based s
 
 ---
 
-##📂 Project Structure
+##📂 Project Files
+## 📂 Project Files
+- Power BI dashboard file: 
+- Demo video: 
+
 
 
 
