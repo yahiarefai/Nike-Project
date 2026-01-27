@@ -33,7 +33,7 @@ The dashboard enables intuitive, product-style exploration through image-based s
 
 ##📂 Project Files
 ## 📂 Project Files
-- Power BI dashboard file: 
+- Power BI dashboard file: Nike Project.pbix
 - Demo video: 
 
 
