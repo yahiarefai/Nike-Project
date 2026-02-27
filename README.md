@@ -34,6 +34,7 @@ The dashboard enables intuitive, product-style exploration through image-based s
 ##📂 Project Files
 ## 📂 Project Files
 - Power BI dashboard file: Nike Project.pbix
+- nike_shoes_sales - nike_shoes_sales.csv : for the main datasets
 - Demo video: nike_powerbi_demo.mp4.mp4
 
 
